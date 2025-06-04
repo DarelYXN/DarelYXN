@@ -1,7 +1,7 @@
 # Hi there, I'm DarelYXN! 👋
 
 ## 🚀 About Me
-Darel/Dxh Adalah front end developer yang memiliki skill di bahasa pemerograman js,c++,php
+Darel/Dxh Adalah front end developer yang memiliki skill di bahasa pemerograman Java Script,C++,PHP
 
 ## 🛠️ Skills
 - **JavaScript** (60%)  
@@ -12,6 +12,6 @@ Darel/Dxh Adalah front end developer yang memiliki skill di bahasa pemerograman 
 ![DarelYXN's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DarelYXN&show_icons=true&theme=radical)
 
 ## 📲 Find me on
-<a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank">
+<a href="https://instagram.com/DarelYXN" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram Badge"/>
 </a>
