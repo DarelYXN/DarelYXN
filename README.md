@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm DarelYXN! 👋
 
-<!--
-**DarelYXN/DarelYXN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+Darel/Dxh Adalah front end developer yang memiliki skill di bahasa pemerograman js,c++,php
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- **JavaScript** (60%)  
+- **C++** (20%)  
+- **PHP** (20%)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![DarelYXN's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DarelYXN&show_icons=true&theme=radical)
+
+## 📲 Find me on
+<a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram Badge"/>
+</a>
