@@ -19,7 +19,7 @@ Mainly focused on JavaScript (60%), but also experienced with C++ (20%) and PHP 
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram Badge"/>
   </a>
   <a href="https://darell.my.id" target="_blank">
-    <img src="https://img.shields.io/badge/Lihat%20Proyek%20Saya-222222?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Lihat Proyek Saya"/>
+    <img src="https://img.shields.io/badge/Lihat%20Proyek%20Saya-222222?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Dont Click"/>
   </a>
 </p>
 
