@@ -24,4 +24,11 @@ Darel/Dxh adalah **front-end developer** yang memiliki keahlian dalam bahasa pem
   <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram Badge"/>
 </a>
 
+<div class="hero">
+            <h1>Halo, Saya **[Nama Lengkap Anda]**</h1>
+            <p>Seorang **Frontend Developer** yang fokus pada antarmuka pengguna yang bersih dan interaktif.</p>
+            <a href="darell.my.id" class="button">Lihat Proyek Saya</a>
+        </div>
+    </header>
+    
 ---
