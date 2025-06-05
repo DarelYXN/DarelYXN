@@ -1,7 +1,5 @@
 # Hi there, I'm DarelYXN! 👋
 
-https://raw.githubusercontent.com/DarelYXN/JUSTHTML/refs/heads/main/index.html
-
 ## 🚀 About Me
 Darel/Dxh Memiliki Skill Di **PHP**,**JAVA SCRIPT**,**HTML**,**CSS**,**C++**
 
